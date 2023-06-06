@@ -1,0 +1,30 @@
+  242  git clone https://github.com/paulacuadra/20230605-PaulaCuadra.git
+  243  cd 20230605-PaulaCuadra/
+  244  touch comandos.txt main.js index.html
+  245  git add .
+  246  git commit -m "commit 1 de PaulaCuadra"
+  247  git push origin main
+  248  git log
+  249  git branch "feature01"
+  250  git checkout feature01
+  251  mkdir Terminal Hardware
+  252  touch Terminal/resumen.txt Hardware/resumen.txt
+  253  ls -R
+  254  git add .
+  255  git commit -m "commit 2 de PaulaCuadra"
+  256  git push origin feature01
+  257  git log
+  258  git branch feature02
+  259  git checkout feature02
+  260  git status
+  261  git add .
+  262  git commit -m "commit 03 de PaulaCuadra"
+  263  git push origin feature02
+  264  git checkout main
+  265  ls
+  266  mv comandos.txt comandosUtilizados.txt
+  267  git status
+  268  git add .
+  269  history
+
+
