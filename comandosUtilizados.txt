@@ -26,5 +26,10 @@
   267  git status
   268  git add .
   269  history
+ 270  git add .
+  271  git commit -m "commit 04 de PaulaCuadra"
+  272  git push origin main
+  273  history
+
 
 
