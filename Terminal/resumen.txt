@@ -1,0 +1,5 @@
+git push - Subir el commit al repo remoto
+git mv archivo1 /carpeta/archivo1 - mover archivo de carpeta
+git rm -borrar carpeta
+pwd - muestra en que carpeta estamos ubicados
+git log -muestra los commits hechos
